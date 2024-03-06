@@ -1,0 +1,143 @@
+body{
+    margin: 1%;
+    padding: 1%;
+}
+
+header{
+    background-color: #FFFFFF;
+    background-image: url("../images/flywheel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1%;
+}
+
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+    color:#FFFFFF;
+}
+
+h2{
+    text-transform: uppercase;
+    color:#000000;
+}
+
+.left{
+    display: inline-block;
+    background: #0000FF;
+    background: radial-gradient(#03b1a6, #FFFFFF);
+    width: 20%;
+    float: left;
+    padding-bottom: 5%;
+    height: 100vh;
+}
+
+.right{
+    display: inline-block;
+    width: 70%;
+    font-size: 150%;
+    color: #000000;
+    margin: 1%;
+}
+
+a img{
+    display: block;
+    box-sizing: border-box;
+    border: 3px solid #000000;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    background-repeat: no-repeat;
+}
+
+nav a{
+    font-size: 150%;
+    display: inline-block;
+    color: #000000;
+    background-color: rgba(255,255,255,0.3);
+    -webkit-border-radius: 3;
+    -moz-border-radius: 3;
+    -o-border-radius: 3;
+    border-radius: 25px;
+    padding: 1%;
+    width: 18%;
+    margin: 2%;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav a:visited{
+    color: #000000;
+    background-color: rgba(255,255,255,0.3);
+}
+
+nav a:hover{
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+nav a:focus{
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+nav a:active{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.active{
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+table{
+    width: 80%;
+    margin: 10%;
+    text-align: center;
+}
+
+
+tr>th:first-child,tr>td:first-child{
+    text-align: left;
+    padding-left: 2%;
+}
+
+td{
+    font-size: 100%;
+    font-family: Arial,"Times New Roman",sans-serif;
+    line-height: 2;
+    background-color: #d6d6d6;
+    color: rgba(0,0,0,0.6);
+    margin: 2%;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px ;
+    text-shadow: rgba(0,0,0,0.6) 0 -2px;
+}
+
+td:hover{
+    color: rgba(0,0,0,1);
+}
+
+
+
+
+th{
+    color: #FFFFFF;
+    background: #000000;
+    background: -moz-linear-gradient(#000000 20%, #00b7ea 100%);
+    background: -webkit-linear-gradient(#000000 20%, #00b7ea 100%);
+    background: -o-linear-gradient(#000000 20%, #00b7ea 100%);
+    background: linear-gradient(#000000 20%, #00b7ea 100%); 
+    border: 3px solid #000000;
+    -moz-border-radius: 25px 25px 0 0;
+    -o-border-radius: 25px 25px 0 0;
+    -webkit-border-radius: 25px 25px 0 0;
+    border-radius: 25px 25px 0 0;
+    border-bottom: thick;
+}

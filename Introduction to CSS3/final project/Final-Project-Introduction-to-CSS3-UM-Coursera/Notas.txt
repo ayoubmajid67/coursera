@@ -1,0 +1,91 @@
+Semana 1 del curso en codepen
+
+-http://codepen.io/collection/noEQed/
+01-02 Cascading Style Sheet:
+
+styleAttribute.html
+Presendence
+externalstyle
+internalStyle.html
+01-04 Styling Your Text:
+
+fonts
+01-05 Code Together:
+
+Code Together 1 - No CS
+Code Together 1 - With CSS
+01-06 Display and Visbility - Part 1:
+
+Display Example 1
+Display Example 2
+
+Tutorial
+
+-https://learn.shayhowe.com/html-css/building-your-first-web-page/
+
+Background
+
+http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
+
+Opacity for background-image
+
+ https://css-tricks.com/almanac/properties/o/opacity/
+
+h1 article SEO
+
+http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.
+
+
+
+
+
+
+Ve lo que puedes lograr usando CSS en:
+
+-http://www.csszengarden.com
+
+Verifica el constraste de tu página en:
+
+-http://wave.webaim.org/
+-http://webaim.org/resources/contrastchecker/
+
+week 3 codepen
+
+http://codepen.io/collection/XGowWM/
+
+transition
+
+https://www.w3schools.com/css/css3_transitions.asp
+
+transition and animation
+
+https://learn.shayhowe.com/advanced-html-css/transitions-animations/
+
+transform
+
+https://www.the-art-of-web.com/css/css-animation/
+
+examples
+
+https://www.creativebloq.com/inspiration/css-animation-examples
+
+18 Cool Things You Won’t Believe Were Built Using CSS
+
+https://www.hongkiat.com/blog/built-with-css/
+https://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use
+
+week 4 codepen
+
+http://codepen.io/collection/AOLapY/
+
+<h1> important for SEO
+
+http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824
+
+But just to be difficult, I will include this link to someone who disagrees.
+
+https://yoast.com/headings-use/
+
+
+
+

@@ -1,0 +1,36 @@
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	width: 20%;
+	padding:1%;
+	margin: 1%;
+	background-color: #0000FF;
+	color: #FFFFFF;
+	-webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+    transition-property: width,color,background-color,border-radius;
+    transition: all .5s;
+    transition-timing-function: linear;
+}
+
+.first:hover{
+	background-color: #000000;
+	color: #FFFFFF;
+	width:15%;
+	-webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.second:hover{
+	transform:  rotate(360deg);
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+header{
+	text-align: center;
+}
