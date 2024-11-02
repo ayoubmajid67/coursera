@@ -2,7 +2,7 @@
 
 Welcome to my Coursera Courses repository! This repository contains a collection of courses I have completed on Coursera, along with their corresponding certificates. Each course is aimed at enhancing my knowledge and skills in various fields, and I am excited to share my learning journey with you.
 
-- ![Coursera](https://www.langoly.com/coursera-review/](https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png)
+- ![Coursera](https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png)
 
 ## Contact Information
 
